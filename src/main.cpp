@@ -1,8 +1,7 @@
-#include <stdio.h>
+#include "Entity.h"
 
 int main(int argc, char *argv[])
 {
-	printf("@");
-
+	print();
 	return 0;
 }
